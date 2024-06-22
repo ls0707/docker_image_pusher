@@ -1,4 +1,4 @@
-name: Docker
+name: pull_vulhub_images
 
 on:
   workflow_dispatch:
