@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 v2fly/v2fly-core
 florider89/tinc
+zerotier/zerotier:1.14.0
