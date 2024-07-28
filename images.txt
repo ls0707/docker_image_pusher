@@ -11,3 +11,6 @@ python:3.12.4-slim-bullseye
 postgres:13.4-alpine
 quay.io/hedgedoc/hedgedoc
 p3terx/aria2-pro:202209060423
+linuxserver/transmission:4.0.6
+mouday/spider-admin-pro:v2.0.17
+gogs/gogs:latest
