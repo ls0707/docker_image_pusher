@@ -1,1 +1,2 @@
 vulfocus/aria2-rce:latest
+vulhub/solr:8.11.0
