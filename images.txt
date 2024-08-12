@@ -15,3 +15,4 @@ mouday/spider-admin-pro:v2.0.17
 gogs/gogs:latest
 postgres:16.3-alpine3.20
 node:18-alpine
+nginx:alpine
