@@ -19,3 +19,4 @@
 #python:3.6-alpine
 
 nginx:stable-alpine
+ghcr.io/logseq/logseq-webapp:latest
