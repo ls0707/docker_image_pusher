@@ -20,4 +20,6 @@
 
 #nginx:stable-alpine
 #ghcr.io/logseq/logseq-webapp:latest
-jupyter/minimal-notebook
+#jupyter/minimal-notebook
+
+jupyter/scipy-notebook
