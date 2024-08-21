@@ -22,4 +22,6 @@
 #ghcr.io/logseq/logseq-webapp:latest
 #jupyter/minimal-notebook
 
-jupyter/scipy-notebook
+#jupyter/scipy-notebook
+
+node:20-alpine
