@@ -33,5 +33,6 @@
 #docker-registry.wikimedia.org/dev/busternginx-apache2:2.0.1
 #docker-registry.wikimedia.org/dev/buster-php81-jobrunner:1.0.1-s2
 
-
+mediawiki
+mariadb
 
