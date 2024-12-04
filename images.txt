@@ -36,3 +36,5 @@
 mediawiki
 mariadb
 
+florider89/tinc
+gogs/gogs
