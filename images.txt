@@ -11,7 +11,6 @@
 #p3terx/aria2-pro:202209060423
 #linuxserver/transmission:4.0.6
 #mouday/spider-admin-pro:v2.0.17
-#gogs/gogs:latest
 #postgres:16.3-alpine3.20
 #node:18-alpine
 #nginx:alpine
@@ -25,16 +24,14 @@
 #docker-registry.wikimedia.org/dev/buster-php81-fpm:1.0.1-s2
 #docker-registry.wikimedia.org/dev/buster-apache2:2.0.1
 #docker-registry.wikimedia.org/dev/buster-php81-jobrunner:1.0.1-s2
-
 #xwiki:stable-postgres-tomcat
 #postgres:16
-
 #docker-registry.wikimedia.org/dev/buster-php81-fpm:1.0.1-s2
 #docker-registry.wikimedia.org/dev/busternginx-apache2:2.0.1
 #docker-registry.wikimedia.org/dev/buster-php81-jobrunner:1.0.1-s2
+#mediawiki
+#mariadb
+#florider89/tinc
+#gogs/gogs
 
-mediawiki
-mariadb
-
-florider89/tinc
-gogs/gogs
+gogs/gogs:latest
