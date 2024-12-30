@@ -34,4 +34,4 @@
 #florider89/tinc
 #gogs/gogs
 
-gogs/gogs:latest
+gogost/gost
