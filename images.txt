@@ -33,8 +33,8 @@
 #mariadb
 #florider89/tinc
 #gogs/gogs
-kylemanna/openvpn
-
+#kylemanna/openvpn
+localai/localai:latest-cpu
 
 
 #gogost/gost
