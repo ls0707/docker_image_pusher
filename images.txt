@@ -34,8 +34,8 @@
 #florider89/tinc
 #gogs/gogs
 #kylemanna/openvpn
-localai/localai:latest-cpu
-
+#localai/localai:latest-cpu
+localai/localai:latest-gpu-intel-f32
 
 #gogost/gost
 #mzz2017/v2raya
