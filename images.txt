@@ -36,8 +36,16 @@
 #kylemanna/openvpn
 #localai/localai:latest-cpu
 #localai/localai:latest-gpu-intel-f32
-localai/localai:latest-gpu-intel-f16
-
+#localai/localai:latest-gpu-intel-f16
 
 #gogost/gost
 #mzz2017/v2raya
+
+#== ragflow
+ubuntu:22.04
+elasticsearch:8.11.3
+infiniflow/infinity:v0.6.0-dev3
+mysql:8.0.39
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+valkey/valkey:8
+
