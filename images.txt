@@ -51,5 +51,4 @@
 #infiniflow/ragflow:v0.17.2-slim
 
 #localai/localai:latest-aio-cpu
-localai/localai:latest
 
