@@ -52,3 +52,6 @@
 
 #localai/localai:latest-aio-cpu
 
+localai/localai:latest
+
+
