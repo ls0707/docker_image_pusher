@@ -1,5 +1,6 @@
 #etechonomy/joplin-server:latest
 #postgres:16
 
-
-ghcr.io/pocketpairjp/palserver:v0.3.9.59545
+golang:1.23.8-alpine
+cm2network/steamcmd:root
+sonroyaalmerol/steamcmd-arm64:root-2024-12-22
