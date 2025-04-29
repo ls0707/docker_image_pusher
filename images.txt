@@ -4,3 +4,4 @@
 golang:1.23.8-alpine
 cm2network/steamcmd:root
 sonroyaalmerol/steamcmd-arm64:root-2024-12-22
+thijsvanloef/palworld-server-docker:latest
