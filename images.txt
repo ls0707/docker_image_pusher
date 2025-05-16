@@ -1,1 +1,2 @@
 thijsvanloef/palworld-server-docker:v1.3
+natpierce/natpierce:latest
