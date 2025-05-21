@@ -1,1 +1,1 @@
-misterbabou/gptwol:latest
+ghcr.io/seriousm4x/upsnap:5
