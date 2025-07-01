@@ -1,1 +1,1 @@
-ghcr.io/seriousm4x/upsnap:5
+godoos/godoos:latest
