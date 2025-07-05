@@ -1,1 +1,1 @@
-godoos/godoos:latest
+ghcr.io/senshinya/moontv:latest
