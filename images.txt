@@ -1,1 +1,1 @@
-redis
+thijsvanloef/palworld-server-docker:latest
