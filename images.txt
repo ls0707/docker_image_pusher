@@ -1,1 +1,1 @@
-thijsvanloef/palworld-server-docker:latest
+docker pull skysider/pwndocker:latest
