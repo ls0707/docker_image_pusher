@@ -1,2 +1,1 @@
-appflowy
-nginx
+appflowy/appflowy
