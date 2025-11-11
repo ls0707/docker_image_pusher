@@ -1,1 +1,10 @@
-appflowy/appflowy
+nginx
+minio/minio
+pgvector/pgvector:pg16
+redis
+appflowyinc/gotrue
+appflowyinc/appflowy_cloud
+appflowyinc/admin_frontend
+appflowyinc/appflowy_ai
+appflowyinc/appflowy_worker
+appflowyinc/appflowy_web
