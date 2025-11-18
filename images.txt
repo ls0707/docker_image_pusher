@@ -1,10 +1,1 @@
-nginx
-minio/minio
-pgvector/pgvector:pg16
-redis
-appflowyinc/gotrue
-appflowyinc/appflowy_cloud
-appflowyinc/admin_frontend
-appflowyinc/appflowy_ai
-appflowyinc/appflowy_worker
-appflowyinc/appflowy_web
+docker.io/lukemathwalker/cargo-chef:0.1.72-rust-1.89-bookworm
