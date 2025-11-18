@@ -1,1 +1,2 @@
 docker.io/lukemathwalker/cargo-chef:0.1.72-rust-1.89-bookworm
+docker.io/library/postgres:18.0
