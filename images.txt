@@ -1,2 +1,1 @@
-docker.io/lukemathwalker/cargo-chef:0.1.72-rust-1.89-bookworm
-mysql:8.0
+openjdk:8-jre-slim
