@@ -1,1 +1,2 @@
 eclipse-temurin:8-jre-alpine
+redis:6-alpine
