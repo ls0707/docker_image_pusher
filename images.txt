@@ -1,3 +1,1 @@
-eclipse-temurin:8-jre-alpine
-redis:6-alpine
-nginx:alpine
+eclipse-temurin:17-jre
